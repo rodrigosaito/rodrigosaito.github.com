@@ -4,7 +4,7 @@ title: "JSON responses in Go"
 tags: [ "golang", "json" ]
 ---
 
-In the [previous part of this tutorial]({% post_url 2015-05-01-hello-world-webserver-go %}) I showed how to create a Hello World Webserver in Go,
+On the [previous part of this tutorial]({% post_url 2015-05-01-hello-world-webserver-go %}) I showed how to create a Hello World Webserver in Go,
 in this part I will demonstrate how to return JSON responses using the standard library.
 
 Let's modify our previous example and generate a JSON response instead of a hardcoded string:
