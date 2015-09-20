@@ -5,7 +5,7 @@ tags: [ "golang", "json", "rest" ]
 ---
 
 Go standard library has a lot of useful packages, but for creating routes on your API other packages are a better fit.
-On this tutorial we will use ```gorilla/mux``` package as our request router.
+In this tutorial we will use ```gorilla/mux``` package as our request router.
 
 You can find the documentation for ```gorilla/mux``` [here](http://www.gorillatoolkit.org/pkg/mux)
 
